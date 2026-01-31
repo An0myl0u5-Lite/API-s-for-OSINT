@@ -20,6 +20,12 @@
 
 Thank you for following me! https://cybdetective.com
 
+---
+
+> **SECURITY NOTICE:** Malicious GitHub repositories disguised as OSINT tools are actively targeting security researchers and OSINT practitioners. Before cloning or running any tool, verify the account history, inspect the code, and sandbox unknown software. Five major campaigns (Stargazers Ghost Network, PyStoreRAT, Webrat, Banana Squad, SmartLoader/Lumma) have been documented between 2024-2026 using fake stars, AI-generated content, and trojanized code. Read the full threat briefing: **[OSINT-OPSEC.md](OSINT-OPSEC.md)**
+
+---
+
 ## Table of contents
 
 - [APIs](#phone-number-lookup-and-verification)
@@ -562,6 +568,18 @@ Thank you for following me! https://cybdetective.com
 
 
 
+## Support This Project
+
+If this collection is useful to you, consider supporting independent OSINT research:
+
+| Network | Address |
+|---------|---------|
+| Lightning | `lesslace72@walletofsatoshi.com` |
+| Bitcoin | `bc1qh2cnzmrp2pj0x2n22gfhshjnlzya9aagpuntyg` |
+| Ethereum (ERC20) | `0xd6aCF08BE2fCC2cB1f443d620d5DDe93ba02aDfA` |
+| BNB (BEP20) | `0xd6aCF08BE2fCC2cB1f443d620d5DDe93ba02aDfA` |
+
+
 ## Contributing
 Contributions are always welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
 
@@ -572,3 +590,7 @@ Contributions are always welcome! Please read the [contribution guidelines](CONT
 ![cc license](https://i.creativecommons.org/l/zero/1.0/88x31.png)
 
 This work is licensed under a [CC0 1.0 Universal](LICENSE.md) license.
+
+---
+
+**[An0myl0u5 Research and Development](https://github.com/An0myl0u5-Lite)**
