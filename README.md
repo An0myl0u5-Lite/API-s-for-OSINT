@@ -20,6 +20,12 @@
 
 Thank you for following me! https://cybdetective.com
 
+---
+
+> **SECURITY NOTICE:** Malicious GitHub repositories disguised as OSINT tools are actively targeting security researchers and OSINT practitioners. Before cloning or running any tool, verify the account history, inspect the code, and sandbox unknown software. Five major campaigns (Stargazers Ghost Network, PyStoreRAT, Webrat, Banana Squad, SmartLoader/Lumma) have been documented between 2024-2026 using fake stars, AI-generated content, and trojanized code. Read the full threat briefing: **[OSINT-OPSEC.md](OSINT-OPSEC.md)**
+
+---
+
 ## Table of contents
 
 - [APIs](#phone-number-lookup-and-verification)
