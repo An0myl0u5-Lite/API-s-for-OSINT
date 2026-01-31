@@ -593,4 +593,4 @@ This work is licensed under a [CC0 1.0 Universal](LICENSE.md) license.
 
 ---
 
-**An0myl0u5 Research and Development**
+**[An0myl0u5 Research and Development](https://github.com/An0myl0u5-Lite)**

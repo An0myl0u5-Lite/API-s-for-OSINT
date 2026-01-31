@@ -369,7 +369,7 @@ If this briefing was useful, consider supporting independent OSINT research:
 
 *This document is provided for defensive and educational purposes. Stay vigilant.*
 
-**An0myl0u5 Research and Development**
+**[An0myl0u5 Research and Development](https://github.com/An0myl0u5-Lite)**
 
 ---
 
