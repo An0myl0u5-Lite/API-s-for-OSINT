@@ -370,3 +370,13 @@ If this briefing was useful, consider supporting independent OSINT research:
 *This document is provided for defensive and educational purposes. Stay vigilant.*
 
 **An0myl0u5 Research and Development**
+
+---
+
+## License
+
+This document is licensed under [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/).
+
+You are free to share and adapt this material with appropriate credit to An0myl0u5 Research and Development. Commercial use is not permitted without prior written consent.
+
+Note: This license applies to this OSINT-OPSEC document only. The parent repository's curated API list remains under its own CC0 1.0 Universal license.
