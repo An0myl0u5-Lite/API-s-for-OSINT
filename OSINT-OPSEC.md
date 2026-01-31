@@ -354,4 +354,19 @@ For a curated list of verified OSINT tools and APIs, see:
 
 ---
 
+## Support This Research
+
+If this briefing was useful, consider supporting independent OSINT research:
+
+| Network | Address |
+|---------|---------|
+| Lightning | `lesslace72@walletofsatoshi.com` |
+| Bitcoin | `bc1qh2cnzmrp2pj0x2n22gfhshjnlzya9aagpuntyg` |
+| Ethereum (ERC20) | `0xd6aCF08BE2fCC2cB1f443d620d5DDe93ba02aDfA` |
+| BNB (BEP20) | `0xd6aCF08BE2fCC2cB1f443d620d5DDe93ba02aDfA` |
+
+---
+
 *This document is provided for defensive and educational purposes. Stay vigilant.*
+
+**An0myl0u5 Research and Development**
